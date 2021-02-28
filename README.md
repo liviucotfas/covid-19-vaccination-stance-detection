@@ -1,7 +1,5 @@
 # Overview
-This repository contains the annotated dataset, the unigrams, bigrams and trigrams referenced in the paper **"The Longest Month: Analyzing the Dynamics of Opinions Regarding COVID-19 Vaccination from Tweets in the Month following the First Vaccine Announcement"** published in **IEEE Access**.
-
-The published paper is available at https://ieeexplore.ieee.org/document/9354776 .
+This repository contains the annotated dataset, the unigrams, bigrams and trigrams referenced in the paper **"The Longest Month: Analyzing the Dynamics of Opinions Regarding COVID-19 Vaccination from Tweets in the Month following the First Vaccine Announcement"** published in **IEEE Access**. The paper is available at https://ieeexplore.ieee.org/document/9354776 .
 
 The tweets have been collected between **November 9, 2020** and **December 8, 2020** as described in our paper. On November 9, 2020, Pfizer and BioNTech have made the announcement regarding the 90% COVID-19 vaccine efficiency. One month later, on December 8, 2020 the COVID-19 vaccination has started in the UK.
 
